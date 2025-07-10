@@ -218,7 +218,7 @@ const Index = () => {
               <div className="space-y-4">
                 <div className="flex items-center gap-3">
                   <Icon name="Phone" size={20} className="text-pink-400" />
-                  <span className="text-gray-700">+7 (999) 123-45-67</span>
+                  <span className="text-gray-700">+7 (967) 543-41-57</span>
                 </div>
                 <div className="flex items-center gap-3">
                   <Icon name="Mail" size={20} className="text-pink-400" />
